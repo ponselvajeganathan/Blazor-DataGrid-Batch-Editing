@@ -40,8 +40,8 @@ The sample uses a local `OrderDetails` data source and renders the grid through 
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
 - To report an issue specific to this sample, open a GitHub issue in this repository.
-- For feature documentation, see the Syncfusion Blazor DataGrid batch editing documentation: https://blazor.syncfusion.com/documentation/datagrid/batch-editing
+- For feature documentation, see the Syncfusion Blazor DataGrid batch editing documentation: https://help.syncfusion.com/grid-sdk/blazor/data-grid/batch-editing
 
 ## License
 
-This is a Syncfusion sample project provided to demonstrate product usage. Review the [Syncfusion license terms](https://www.syncfusion.com/sales/teamlicense) before using Syncfusion components in your own applications.
+This is a Syncfusion sample project provided to demonstrate product usage. Review the [Syncfusion license terms](https://www.syncfusion.com/sales/pricing?category=ui-components) before using Syncfusion components in your own applications.
