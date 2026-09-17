@@ -18,9 +18,11 @@ The sample uses a local `OrderDetails` data source and renders the grid through 
 
 ## Prerequisites
 
-* Visual Studio 2022
+* Visual Studio 2022 or Visual Studio Code
 
 ## How to Run the Project
+
+**Visual Studio 2022**
 
 1. Clone or download this repository.
 2. Open `BatchEditingSample.sln` using Visual Studio 2022.
@@ -29,6 +31,17 @@ The sample uses a local `OrderDetails` data source and renders the grid through 
 5. Run the application.
 6. Navigate to the default page to view the Syncfusion Blazor DataGrid batch editing sample.
 7. Edit multiple cells across different rows and save the pending changes through the grid's batch editing workflow.
+
+**Visual Studio Code**
+
+1. Open the repository folder in Visual Studio Code.
+2. Open the integrated terminal.
+3. Navigate to the project directory.
+
+```bash
+dotnet restore
+dotnet run
+```
 
 ## Project Structure
 
